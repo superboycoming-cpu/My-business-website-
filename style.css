@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+nav {
+    background-color: black;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+}
